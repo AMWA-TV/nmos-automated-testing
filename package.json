@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/AMWA-TV/nmos-automated-testing/issues"
   },
-  "homepage": "https://github.com/AMWA-TV/nmos-automated-testing#readme"
+  "homepage": "https://github.com/AMWA-TV/nmos-automated-testing#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "nmos-ledger": "^1.0.17",
+    "tape": "^4.6.3",
+    "uuid": "^3.0.1",
+    "yargs": "^6.6.0"
+  }
 }
