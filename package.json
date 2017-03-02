@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/AMWA-TV/nmos-automated-testing#readme",
   "dependencies": {
-    "nmos-ledger": "^1.0.17"
+    "async": "^2.1.4",
+    "nmos-ledger": "^1.0.17",
+    "tape": "^4.6.3",
+    "uuid": "^3.0.1",
+    "yargs": "^6.6.0"
   }
 }
